@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Planet" ADD COLUMN     "filmes" INTEGER NOT NULL DEFAULT 0;
